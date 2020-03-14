@@ -1,5 +1,5 @@
 # Discord-Bot
 
-## !info commands
-## !clear [#]
-## !mute [user][time]
+### !info commands
+### !clear [#]
+### !mute [user][time]
