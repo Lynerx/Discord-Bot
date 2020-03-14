@@ -1,1 +1,5 @@
-### Try to do something here - learn !
+# Discord-Bot
+
+## !info commands
+## !clear [#]
+## !mute [user][time]
